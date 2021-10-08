@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Sandeep lammichhane",
+      "username": "sl25",
+      "email": "sl25@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Ram Adhikari",
+      "email": "ramayan@gmail.com",
+      "username": "rams",
+      "id": 4
+    },
+    {
+      "name": "Manu Tamang",
+      "email": "m@gmail.com",
+      "username": "mannu",
+      "id": 5
+    }
+  ]
+}
